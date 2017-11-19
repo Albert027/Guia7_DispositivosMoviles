@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Guia7_Moviles</string>
+    <string name="text_catHint">Nombre Categoria</string>
+    <string name="text_proHint">Nombre Producto</string>
+    <string name="text_btnG">Guardar</string>
+    <string name="text_btnE">Eliminar</string>
+    <string name="text_btnA">Acceder</string>
+    <string name="text_catID">100</string>
+    <string name="text_proDes">Descripcion</string>
+</resources>
